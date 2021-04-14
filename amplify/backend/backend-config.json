@@ -16,5 +16,13 @@
         }
       }
     }
+  },
+  "auth": {
+    "cianalyshop55eedc86": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
   }
 }

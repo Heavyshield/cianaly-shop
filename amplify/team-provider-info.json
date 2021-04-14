@@ -10,6 +10,11 @@
       "StackName": "amplify-cianalyshop-dev-91001",
       "StackId": "arn:aws:cloudformation:eu-west-1:357586362720:stack/amplify-cianalyshop-dev-91001/59396f60-830a-11eb-a537-025c02592c7f",
       "AmplifyAppId": "dsywlc9kakk3x"
+    },
+    "categories": {
+      "auth": {
+        "cianalyshop55eedc86": {}
+      }
     }
   }
 }
